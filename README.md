@@ -1,3 +1,6 @@
+The following text is the README provided by the author of the SpicePy library, used in this very program. Anyone who wishes to test the library is free to follow the below procedures.
+
+
 # SpicePy
 **SpicePy** is a name coming from the merge of **SPICE** (*Simulation Program with Integrated Circuit Emphasis*) and **Python**, hence, it goes without saying that it is a _Circuit simulator written in python_
 
