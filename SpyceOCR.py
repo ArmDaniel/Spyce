@@ -42,8 +42,8 @@ def netlist_solver(cir_netlist):
     net.print()
 
 def main():
-	netlist_path = netlist_convert(path)
-	netlist_solver(netlist_path)
+    netlist_path = netlist_convert(path)
+    netlist_solver(netlist_path)
 	
 if __name__ == "__main__":
-	main()
+    main()
